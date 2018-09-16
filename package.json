@@ -25,9 +25,10 @@
   "homepage": "https://github.com/soaxelbrooke/nn-sentiment#readme",
   "devDependencies": {
     "jest": "^23.6.0",
+    "node-fetch": "^2.2.0",
     "prettier": "^1.14.2"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "^0.13.0"
+    "@tensorflow/tfjs": "0.12.0"
   }
 }
