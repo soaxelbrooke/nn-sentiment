@@ -1,0 +1,26 @@
+{
+  "name": "nn-sentiment",
+  "version": "1.0.0",
+  "description": "Predicts sentiment for English text using a pre-trained neural network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soaxelbrooke/nn-sentiment.git"
+  },
+  "keywords": [
+    "sentiment-analysis",
+    "sentiment",
+    "sentiment-classification",
+    "javascript",
+    "browser"
+  ],
+  "author": "Stuart Axelbrooke <stuart@axelbrooke.com> (https://stuart.axelbrooke.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soaxelbrooke/nn-sentiment/issues"
+  },
+  "homepage": "https://github.com/soaxelbrooke/nn-sentiment#readme"
+}
